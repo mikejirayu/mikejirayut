@@ -25,7 +25,7 @@ if (!is_null($events['events'])) {
 				// Build message to reply back
 				$messages = [
 					'type' => 'text',
-					'text' => 'กด2 ทำไมละ กดทำไม!'
+					'text' => 'เอ้อ เชื่อฟังบอกง่าย <3 '
 				];
 			}
 		
